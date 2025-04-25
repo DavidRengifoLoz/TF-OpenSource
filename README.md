@@ -670,7 +670,6 @@ Why would they invite others?
 | 18 | US018 | Optimización de la comunicación interna  | Como jefe de obra, quiero que todos los obreros estén al tanto de sus tareas a través de un sistema de comunicación eficiente | 3 |
 | 19 | US019 | Evaluación del desempeño de los obreros | Como jefe de obra, quiero evaluar el desempeño de los obreros para mejorar la asignación de tareas y recursos en el futuro | 5 |
 | 20 | US020 | Automatización de la asignación de trabajos | Como jefe de obra, quiero automatizar la asignación de trabajos para evitar errores y agilizar el proceso de asignación | 3 |
-|-------|--------|------------|----------------------|-------------|
 
 
 # <font color="red">**Capítulo IV: Product Design**</font>
