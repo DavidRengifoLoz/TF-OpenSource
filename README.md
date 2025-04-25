@@ -547,13 +547,11 @@ Why would they invite others?
 ### **2.3.5. As-is Scenario Mapping**
 
 Obrero
-<img src="/[DavidRengifoLoz/TF-OpenSource/raw/main/assets/cap-2/user-personas/Carlos-Morales-Obrero.png](https://github.com/DavidRengifoLoz/TF-OpenSource/blob/main/Miro/AS_IS/OBRERO.png)" alt="User Persona" style="width: 100%; max-width: 100%;">
-
-
-
+<img src="https://github.com/DavidRengifoLoz/TF-OpenSource/raw/main/Miro/AS_IS/OBRERO.png" alt="User Persona" style="width: 100%; max-width: 100%;">
 
 Jefe de Obras
-<img src="[/DavidRengifoLoz/TF-OpenSource/raw/main/assets/cap-2/user-personas/Carlos-Morales-Obrero.png" alt="User Persona](https://github.com/DavidRengifoLoz/TF-OpenSource/blob/main/Miro/AS_IS/Jefe%20de%20Obras.png)" style="width: 100%; max-width: 100%;">
+<img src="https://github.com/DavidRengifoLoz/TF-OpenSource/raw/main/Miro/AS_IS/Jefe%20de%20Obras.png" alt="User Persona" style="width: 100%; max-width: 100%;">
+
 
 ## **2.4. Ubiquitous Language**
 
@@ -599,6 +597,12 @@ Jefe de Obras
 # <font color="red"> **Capítulo III: Requirements Specification**</font>
 
 ## **3.1. To-Be Scenario Mapping**
+Obrero
+<img src="https://github.com/DavidRengifoLoz/TF-OpenSource/raw/main/Miro/TO_BE/Jefe%20de%20Obras.png" alt="User Persona Jefe de Obras" style="width: 100%; max-width: 100%;">
+
+Jefe de Obras
+<img src="https://github.com/DavidRengifoLoz/TF-OpenSource/raw/main/Miro/TO_BE/OBRERO.png" alt="User Persona Obrero" style="width: 100%; max-width: 100%;">
+
 ## **3.2. User Stories**
 | Epic/User Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 |-------|--------|------------|----------------------|-------------|
