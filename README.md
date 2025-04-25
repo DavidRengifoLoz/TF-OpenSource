@@ -546,25 +546,14 @@ Why would they invite others?
 
 ### **2.3.5. As-is Scenario Mapping**
 
-## Segmento: Obrero
-**Escenario:** Carlos inicia su jornada laboral en la obra y necesita saber exactamente qué tareas debe realizar y cómo priorizarlas.
-
-| Fases     | Fase 1                                | Fase 2                                   | Fase 3                                         | Fase 4                                     |
-|-----------|----------------------------------------|-------------------------------------------|------------------------------------------------|---------------------------------------------|
-| **Doing** | Llega a la obra y espera instrucciones | Recibe indicaciones orales del jefe       | Realiza tareas con dudas sobre prioridades     | Intenta consultar a compañeros si surgen problemas |
-| **Thinking** | “¿Qué tengo que hacer hoy?”            | “¿Esto que me dijeron es lo más urgente?” | “¿Estoy haciendo esto bien o me estoy equivocando?” | “¿A quién le digo si algo sale mal?”         |
-| **Feeling** | Confundido por la falta de claridad   | Inseguro sobre lo que debe priorizar     | Frustrado si hay cambios inesperados           | Ansioso si hay errores que no puede resolver |
+Obrero
+<img src="/[DavidRengifoLoz/TF-OpenSource/raw/main/assets/cap-2/user-personas/Carlos-Morales-Obrero.png](https://github.com/DavidRengifoLoz/TF-OpenSource/blob/main/Miro/AS_IS/OBRERO.png)" alt="User Persona" style="width: 100%; max-width: 100%;">
 
 
-## Segmento: Jefe de Obras
-**Escenario:** María debe planificar el trabajo de la semana y asegurarse de que todo el equipo tenga claridad sobre sus responsabilidades.
 
-| Fases     | Fase 1                                        | Fase 2                                          | Fase 3                                                  | Fase 4                                           |
-|-----------|-----------------------------------------------|--------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------|
-| **Doing** | Revisa el avance del proyecto en documentos sueltos | Intenta organizar tareas para cada obrero manualmente | Da instrucciones verbales o por mensajes al personal        | Monitorea el avance con visitas y correos        |
-| **Thinking** | “¿Cómo hago para que todos estén bien coordinados?” | “¿Qué tareas puedo mover si hay retrasos?”         | “¿Me entendieron bien o habrá confusión?”                    | “¿Cómo justifico este retraso frente a la gerencia?” |
-| **Feeling** | Presionada por el tiempo y la planificación  | Estresada por la dificultad de reasignar tareas  | Frustrada por errores o confusión en el equipo              | Agobiada por la carga de reportes manuales        |
 
+Jefe de Obras
+<img src="[/DavidRengifoLoz/TF-OpenSource/raw/main/assets/cap-2/user-personas/Carlos-Morales-Obrero.png" alt="User Persona](https://github.com/DavidRengifoLoz/TF-OpenSource/blob/main/Miro/AS_IS/Jefe%20de%20Obras.png)" style="width: 100%; max-width: 100%;">
 
 ## **2.4. Ubiquitous Language**
 
